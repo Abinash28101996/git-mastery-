@@ -10,6 +10,7 @@ public class GitmasteryApplication {
         SpringApplication.run(GitmasteryApplication.class, args);
         System.out.println("Gitmastery Application Started");
         System.out.println("Indrajit is the developer");
+        System.out.println("Abinash Patowary is the developer");
     }
 
 }
