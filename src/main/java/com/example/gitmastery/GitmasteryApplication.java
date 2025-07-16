@@ -9,7 +9,7 @@ public class GitmasteryApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitmasteryApplication.class, args);
         System.out.println("Gitmastery Application Started");
-        System.out.println("Abinash Patowary Application Started");
+        System.out.println("Abinash Patowary is the developer");
     }
 
 }
